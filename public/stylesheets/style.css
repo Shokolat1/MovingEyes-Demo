@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+main{
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  position: relative;
+}
+
+#ojos, #ojos img{
+  position: absolute;
+}
